@@ -4,7 +4,7 @@ Oláa! Bem vindo!
 <p>Esse repositório é destinado aos <strong>conteúdos das aulas de Microinformática e Algoritmo</strong> do curso de Análise e Desenvolvimento de Sistemas da <a href="https://fatecgarca.cps.sp.gov.br">Fatec</a></p>
 <br><strong>Python</strong> será principal e publicaremos os exercícios relacionados durante as aulas.
 
-Projeto em equipe com <a href="https://github.com/HenriqueQueirozz">@henrique-queiroz<a>
+Projeto em equipe com <a href="https://github.com/PabloHenrique">@PabloHenrique<a>
 
 ## Tecnologias
 <p align="left">
